@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 🚀 MRCF 템플릿 소개
 
-<img src="/img/blacktailz.jpg" width="200" />
+<img src={require('@site/static/img/blacktailz.jpg').default} width="200" />
 
 :::tip 팁
 이 템플릿은 최신 React 버전에서 가장 잘 작동합니다!
