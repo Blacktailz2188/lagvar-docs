@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_fab_docs=globalThis.webpackChunkmy_fab_docs||[]).push([[274],{1096(a){a.exports=JSON.parse('{"metadata":{"permalink":"/lagvar-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
